@@ -1,6 +1,8 @@
 box-linux-sync - A naïve [Box.com](http://box.com/) Linux Client
 ================================================================
 
+[![Join the chat at https://gitter.im/noiselabs/box-linux-sync](https://badges.gitter.im/noiselabs/box-linux-sync.svg)](https://gitter.im/noiselabs/box-linux-sync?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An unofficial attempt to create a Linux synchronization client because Box.com does not provide one.
 
 NOTICE
